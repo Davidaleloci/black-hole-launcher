@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Black Hole Launcher</string>
+    <string name="swallow_action">Vórtice Activo</string>
+    <string name="restore_action">Big Bang (Expulsar)</string>
+    <string name="search_hint">Buscar aplicación...</string>
+    <string name="apps_drawer_title">Todas las Aplicaciones</string>
+</resources>
